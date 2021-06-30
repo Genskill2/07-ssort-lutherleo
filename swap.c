@@ -19,4 +19,5 @@ void ssort(int p[], int m) {
     for (int i=0;i<m;i++) {
         swap_max(p,m,i);
     }
+    
 }
